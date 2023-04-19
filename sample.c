@@ -2,6 +2,9 @@
 
 	int main () {
 		printf("Hello World in git");
+
+		printf("haaluuuu");
+
     
 		printf("hi!!");
 
